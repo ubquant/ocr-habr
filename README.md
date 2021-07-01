@@ -2,3 +2,6 @@
 #Drawing on pictures using cv2.
 
 #used libs: PIL, cv2, pytesseract, fitz, pandas, numpy, os, re, nltk
+
+
+https://habr.com/ru/post/565566/
